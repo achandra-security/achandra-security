@@ -31,9 +31,11 @@ These are new, original, public reference implementations. Each one has working 
 ### Experience
 
 **Denali Therapeutics** · Cybersecurity Engineer · Feb 2026 to present
+
 Enterprise security and agentic AI security architecture. My work covers agent security assessment methodology; agent identity, delegation, and authorization; and secure-by-design standards for agentic systems. It also includes prompt injection defense, agent execution isolation, Falcon LogScale SIEM modernization, Okta identity security, vulnerability management, and AI-assisted SOC operations.
 
 **Gilead Sciences** · AI/ML platform security
+
 Platform-wide security for AI/ML models, retrieval, inference, and data pipelines. I enforced ACLs at retrieval time and isolated vector database tenants, with dedicated cross-tenant retrieval testing. My remit also covered model supply chain security and multi-tenant inference isolation, and I shipped AI-powered security agents to production. I ran 40+ AI red team assessments over two years, backed by automated adversarial regression testing. I provided technical leadership for five security engineers and detection specialists.
 
 Earlier roles: Ultragenyx Pharmaceutical, San Francisco International Airport, 4C's of Alameda County.
@@ -45,4 +47,5 @@ Ongoing independent research in AI security, agent identity, multi-agent trust b
 ### Certifications
 
 CISM · PCNSE · AWS Certified Solutions Architect – Professional
+
 In progress: CISSP · CCSP · AWS Certified Security – Specialty
