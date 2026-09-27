@@ -4,7 +4,7 @@
 
 I have 12+ years in security engineering and architecture. The last several have gone into securing AI systems in production: model and data pipelines, retrieval, hosted inference, and now autonomous agents that call tools on people's behalf. My focus is controls that hold even when the model does not behave. That means deterministic authorization at the tool boundary, tenant isolation that is enforced at retrieval time rather than hoped for, and detection that can explain itself to an analyst.
 
-San Francisco Bay Area · [LinkedIn](https://www.linkedin.com/in/aakash-chandra-787a0486/) · achandra.aisec@gmail.com
+San Francisco Bay Area · [LinkedIn](https://www.linkedin.com/in/aakash-chandra-787a0486/) · aakashchandra.ai369@gmail.com
 
 ---
 
