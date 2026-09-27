@@ -40,7 +40,7 @@ Earlier roles: Ultragenyx Pharmaceutical, San Francisco International Airport, 4
 
 ### Independent research
 
-This is ongoing personal research, separate from any employer's production systems. It covers agent accountability, agent identity, separation of duties across multiple agents, human oversight of autonomous actions, and a proposed framework I refer to as HAP.
+Ongoing independent research in AI security, agent identity, multi-agent trust boundaries, human oversight, and security architecture for autonomous systems. This research is separate from my employers' production systems.
 
 ### Certifications
 
